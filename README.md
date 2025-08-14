@@ -60,27 +60,6 @@ intramuros-website/
 
 ---
 
-##  Visual Showcase (Optional)
-
-You can visually enrich the README using placeholder markdown like below:
-
-```markdown
-![Intramuros View](https://via.placeholder.com/800x400?text=Intramuros+Overview)
-![San Agustin Church](https://via.placeholder.com/800x400?text=San+Agustin+Church)
-```
-
----
-
-##  Roadmap Ideas
-
-- [ ] Add mobile-first responsive design  
-- [ ] Include navigation menu and page linking  
-- [ ] Implement parallax scrolling or subtle animations  
-- [ ] Add textual descriptions for each heritage point  
-- [ ] Deploy as a live website via GitHub Pages or Netlify
-
----
-
 ##  Author
 
 **Rachelle Pantinople**  
